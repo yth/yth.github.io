@@ -29,3 +29,8 @@ The techniques for performing the first pass is the most detailed.
 The techniques for performing the second pass starts to get more vague, but the outcome of the second phase is still precisely defined.
 
 The techniques for performing the third pass feels opaque. 
+
+---
+Become an “instant” expert. To dive into a subject, read 5-10 books on that topic. Then you can see the key ideas, the common threads, the mental models.
+---
+
